@@ -6,6 +6,13 @@
     <title>Document</title>
   </head>
   <body>
-    <h1>Welcome</h1>
+    <h1>Register
+    </h1>
+    <ul>
+      <li>Mobile Development</li>
+      <li>Wordpress Develpment</li>
+      <li>Windev</li>
+      <li>No code</li>
+    </ul>
   </body>
 </html>
